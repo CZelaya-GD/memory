@@ -117,7 +117,7 @@ Please open an issue to discuss your feature or bugfix before submitting a PR.
 
 ## 📝 License
 
-MIT License (or your preferred license).
+MIT License.
 
 ---
 
